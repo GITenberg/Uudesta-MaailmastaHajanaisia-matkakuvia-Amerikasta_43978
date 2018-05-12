@@ -1,0 +1,44 @@
+_repo: Uudesta-MaailmastaHajanaisia-matkakuvia-Amerikasta_43978
+_version: 0.1.0
+alternative_title: Ett halfår i Nya Verldem. Finnish
+contributor:
+  translator:
+    agent_name: Asp, Hilda Maria
+    birthdate: 1862
+    deathdate: 1891
+    gutenberg_agent_id: '6944'
+    url: http://www.gutenberg.org/2009/agents/6944
+    wikipedia: http://fi.wikipedia.org/wiki/Hilda_Asp
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Gripenberg, Alexandra, friherrinna
+    alias: Gripenberg, Aleksandra, friherrinna
+    birthdate: 1857
+    deathdate: 1913
+    gutenberg_agent_id: '6827'
+    url: http://www.gutenberg.org/2009/agents/6827
+    wikipedia: http://en.wikipedia.org/wiki/Alexandra_Gripenberg
+description: ''
+gutenberg_issued: '2013-10-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '43978'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'United States -- Description and travel'
+- !lcc 'E151'
+tableOfContents: New-Yorkissa -- Pääpiirteet Washingtonin naiskokouksesta -- Orjuuden
+  ajoilta -- Spiritistit ja salaperäisyyden harrastus Philadelphiassa -- Niagara --
+  Ole Bullin ja Longfellowin kodit -- Mark Twainin seurassa -- Harriet Beecher Stowe
+  -- Indianapolissa -- Vaalikokous Chicagossa -- "Kristillinen tiede" -- Kalliovuorten
+  poikki -- Opettajakokous San Fransiskossa -- Tyynen meren rannalla -- Ameriikan
+  Kiina -- Sierra Nevadan runoilija -- San Fransiskon suomalaisten luona -- Yosemite
+  -- Mormoonien luona -- Kansalaisemme Ashtabulassa -- Kodit ja tavat Uudessa maailmassa.
+title: 'Uudesta Maailmasta: Hajanaisia matkakuvia Amerikasta'
+url: http://www.gutenberg.org/ebooks/43978
